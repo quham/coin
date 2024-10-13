@@ -1,0 +1,2 @@
+# coin
+global infation hedge
