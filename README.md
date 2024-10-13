@@ -1,4 +1,4 @@
-# africoin
+# Africoin
 **Global Infation Hedge** Inflation is a huge problem eating away at the savings of many people across the globe. We see it more now in the UK and USA because of the pandemic and cost of living crisis but this has been prevalent in Africa, Asia and Latin America for decades. 
 This means people savings lose constantly those that bother to save as when your money so quickly becomes worthless there is little incentive to save.
 Now usdc is great because it provides global access to a relatively more stable currency but it’s still fiat and like all fiat it’s subject to inflation and has lost x of its value since its inception 
